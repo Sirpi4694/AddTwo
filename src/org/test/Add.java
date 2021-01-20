@@ -5,6 +5,9 @@ public class Add {
 		System.out.println("Sirpi");
 		System.out.println("Vinith");
 		System.out.println("Arshad");
+		String s = "Sirpi";
+		System.out.println(s);
+
 	}
 	
 }
